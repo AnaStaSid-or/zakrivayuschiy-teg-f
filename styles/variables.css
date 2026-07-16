@@ -1,1 +1,18 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+  --main-font: 'Inter-Variable', sans-serif;
+  --accent-font: 'PressStart2P-Regular', monospace;
+  --head-font-wght: 715;
+  --maint-font-wght: 410;
+  --main-width: clamp(375px, 50%, 700px);
+  --page-bc-gradient:
+    repeating-linear-gradient(0deg, #d3d3d3 0, transparent 2px, #d3d3d3 4px),
+    repeating-linear-gradient(90deg, #d3d3d3 0, transparent 2px, #d3d3d3 4px),
+    linear-gradient(180deg, #e7e7e7 0 0.01%, #1a1a1a 100%);
+  --hdr-pdng-tb: clamp(7.625rem, 7.0481rem + 2.4615vw, 8.125rem);
+  --hdr-pdng-lr: clamp(1rem, -6.6803rem + 32.7692vw, 7.65625rem);
+  --accent-color: rgb(0 0 0);
+  --animation-fill-color: red;
+  --text-stroke: #fff;
+  --contour-color: #000;
+}
