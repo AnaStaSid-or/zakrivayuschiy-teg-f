@@ -1,1 +1,1 @@
-repository https://github.com/AnaStaSid-or/zakrivayuschiy-teg-f.git
+repository https://anastasid-or.github.io/zakrivayuschiy-teg-f/

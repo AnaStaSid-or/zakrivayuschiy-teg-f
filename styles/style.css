@@ -246,7 +246,7 @@
   display: grid;
   grid-template-columns: min-content 1fr;
   gap: 30px;
-  column-gap: 12px;
+  column-gap: 20px;
 }
 
 .dialog_content .disket {
